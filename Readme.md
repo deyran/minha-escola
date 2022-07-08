@@ -1,5 +1,5 @@
 O propósito deste repositório é a construção do sistema de gestão escolar *minhaescola*. Para o alcance deste propósito, serão pesquisadas e implementadas 3 etapas básicas:  
-   1. Pesquisa de organograma geral  
+   1. Organograma geral  
       * DIRETORIA EXECUTIVA  
          1. DEPARTAMENTO ADMINISTRATIVO
             1. SECRETARIA
@@ -18,6 +18,8 @@ O propósito deste repositório é a construção do sistema de gestão escolar 
             3. ORÇAMENTO EMPRESARIAL
 
          3. DEPARTAMENTO PEDAGOGICO 
+         4. INFRAESTRUTURA
             
    3. Análise e implementação do *Banco de dados* baseado no organograma e processos de gestão escolar
    4. A partir das definições do *Banco de dados*, implementar sistema web para interação do usuário final
+  
