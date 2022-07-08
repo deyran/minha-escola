@@ -23,7 +23,6 @@ O propósito deste repositório é a construção do sistema de gestão escolar 
                2. RESSALVAS E HISTÓRICOS
                3. CERTIFICADOS 
             6. REGISTROS DE OCORRÊNCIAS
-
          2. COMERCIAL
             1. COMPRAS
             2. VENDAS
