@@ -1,10 +1,14 @@
-O propósito deste repositório é a construção do sistema de gestão escolar *minhaescola*. Para o alcance deste propósito, serão pesquisadas e implementadas 3 etapas básicas:  
-   1. Organograma geral  
-   2. Análise e implementação do *Banco de dados* baseado no organograma e processos de gestão escolar
-   3. A partir das definições do *Banco de dados*, implementar sistema web para interação do usuário final  
+O propósito deste repositório é a construção do sistema de gestão escolar *minhaescola*. Para o alcance deste propósito, serão pesquisadas e implementadas 2 etapas básicas:  
+   1. Requisitos
+      1. Organograma geral  
+      2. Análise e implementação do *Banco de dados* baseado no organograma e processos de gestão escolar
+      3. A partir das definições do *Banco de dados*, implementar sistema web para interação do usuário final  
 
+   2. Requisitos funcinais      
+   <br />
 
-# Organograma geral  
+# Requisitos
+## Organograma geral  
    * DIRETORIA EXECUTIVA  
       1. DEPARTAMENTO ADMINISTRATIVO
          1. SECRETARIA
@@ -43,5 +47,30 @@ O propósito deste repositório é a construção do sistema de gestão escolar 
          1. MANUTENÇÃO E LIMPEZA
          2. SERVIÇOS GERAIS
          
-# Análise e implementação do *Banco de dados* baseado no organograma e processos de gestão escolar
-# A partir das definições do *Banco de dados*, implementar sistema web para interação do usuário final
+## Análise e implementação do *Banco de dados* baseado no organograma e processos de gestão escolar
+## A partir das definições do *Banco de dados*, implementar sistema web para interação do usuário final  
+   <br />
+
+# Requisitos Funcionais
+   1. Estrutura básica 
+   2. Login 
+   3. Sistema de permissões
+   4. Impressões
+      2. Impressão de Relatório, Etiqueta e crachá
+      3. Listagens
+      4. Gráficos
+      5. Pdf
+   5. Cadastros
+      1. Pessoas
+      2. Empresas
+      3. Serviços
+      4. Produtos
+   6. Consultas
+   7. Setup
+   8. Comunicação (E-mail, WhatsApp e Instagram)
+   9. Financeiro
+      1. Controle de estoque
+      2. Ponto de venda
+      3. Fluxo de caixa
+      4. Vendas
+      5. Vendas a prazo
