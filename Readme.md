@@ -66,6 +66,15 @@ O propósito deste repositório é a construção do sistema de gestão escolar 
       3. Ordem de Serviço (OS)
       4. Produtos
       5. Inventário
+      6. Secretaria escolar
+         1. Matrícula
+         2. Turma
+         3. Ocorrências
+         4. Diário de classe
+         5. Boletim
+         6. Ressalvas e Históricos
+         7. Avaliações
+         8. Lançamento de Notas
    6. Consultas
    7. Setup
    8. Comunicação (E-mail, WhatsApp e Instagram)
@@ -75,4 +84,5 @@ O propósito deste repositório é a construção do sistema de gestão escolar 
       3. Fluxo de caixa
       4. Vendas
       5. Vendas a prazo
-   10. AAAAAAAAA
+      6. Controle de inadimplência
+   10. Biblioteca
