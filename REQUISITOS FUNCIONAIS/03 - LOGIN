@@ -1,0 +1,16 @@
+# Whats the right way to implement a login form in MVC? -core  
+
+## https://www.google.com/search?q=Whats+the+right+way+to+implement+a+login+form+in+MVC%3F&sxsrf=ALiCzsaRO4Vx_BmqWK_wFNZGnwFvKkMWWw%3A1657629271690&ei=V2rNYujgKbWJ5OUPiNiCiA4&ved=0ahUKEwio6KGfrvP4AhW1BLkGHQisAOEQ4dUDCA4&uact=5&oq=Whats+the+right+way+to+implement+a+login+form+in+MVC%3F&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABMgUIIRCgATIFCCEQoAEyBQghEKABMgUIIRCgAUoECEEYAUoECEYYAFDdE1jdE2DiHmgBcAB4AIABggKIAYICkgEDMi0xmAEAoAECoAEBwAEB&sclient=gws-wiz
+
+1. https://www.c-sharpcorner.com/article/simple-login-application-using-Asp-Net-mvc/
+2. https://docs.microsoft.com/en-us/aspnet/mvc/overview/security/create-an-aspnet-mvc-5-web-app-with-email-confirmation-and-password-reset
+3. https://stackoverflow.com/questions/24941807/whats-the-right-way-to-implement-a-login-form-in-mvc
+4. https://dev.to/skipperhoa/login-and-register-using-asp-net-mvc-5-3i0g
+5. https://dev.to/skipperhoa/asp-net-mvc-5-form-validation-450p
+6. https://itsourcecode.com/free-projects/asp/how-to-create-login-page-in-asp-net-mvc-with-database/
+
+# Authentication and Validation and Login and security and Web and applications and Asp.Net -Core
+https://www.google.com/search?q=Authentication+and+Validation+and+Login+and+security+and+Web+and+applications+and+Asp.Net+-Core&biw=1366&bih=635&sxsrf=ALiCzsYc_X55TbRQlaZplfO4jiduH4JXtw%3A1657631845722&ei=ZXTNYs3PK8fl1sQP_Oe7gAk&ved=0ahUKEwiNltTqt_P4AhXHspUCHfzzDpAQ4dUDCA4&uact=5&oq=Authentication+and+Validation+and+Login+and+security+and+Web+and+applications+and+Asp.Net+-Core&gs_lcp=Cgdnd3Mtd2l6EANKBAhBGAFKBAhGGABQkAdYizZgnkRoAXAAeACAAcwBiAHkIZIBBjAuMjQuMZgBAKABAcABAQ&sclient=gws-wiz
+
+1. https://docs.microsoft.com/pt-br/troubleshoot/developer/webapps/aspnet/development/security-overview
+2. https://docs.microsoft.com/en-us/archive/msdn-magazine/2002/may/asp-net-security-an-introductory-guide-to-building-and-deploying-more-secure-sites-with-asp-net-and-iis-part-2 
