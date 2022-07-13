@@ -30,7 +30,7 @@ O propósito deste repositório é a construção do sistema de gestão escolar 
             1. COMPRAS
             2. VENDAS
             3. MARKETING
-         3. RECUSOS HUMANOS
+         3. RECURSOS HUMANOS
          4. JURÍDICO
 
       2. DEPARTAMENTO FINANCEIRO
