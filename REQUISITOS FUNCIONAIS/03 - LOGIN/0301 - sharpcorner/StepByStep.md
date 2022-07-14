@@ -23,7 +23,12 @@
 1. These steps can be used to create a Web Application  -> [[2]](https://github.com/deyran/pro-asp-net-mvc/blob/main/CHAPTER%207%20-%20SPORTSSTORE%20-%20A%20REAL%20APPLICATION/AA%20GETTING%20STARTED.md)
 2. Call the project *sharpcornerWeb*  
 
-## ADD ENTITY DATA MODAL
+## PREPARING A DATABASE
+1. In the top menu, open the Server Explorer window (View > Server Explorer)
+2. In *Data Connections* right-click and choose *Add Connection*  
+3. Set the fields to match the pictures below  <br />
+    ![Add Connection](/REQUISITOS%20FUNCIONAIS/03%20-%20LOGIN/0301%20-%20sharpcorner/Pictures/sharpcornerPIC00.png)  
+
 ## ADD A CONTROLLER
 ## CREATE A VIEW
 
@@ -31,4 +36,4 @@ minhaescola
     Requisitos Funcionais
         3. Login
             sharpcorner
-                CREATE A MVC PROJECT
+                PREPARING A DATABASE
