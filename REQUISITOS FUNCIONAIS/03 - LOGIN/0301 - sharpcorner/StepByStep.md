@@ -20,6 +20,9 @@
 3. Run de code  
 
 ## CREATE A MVC PROJECT
+1. These steps can be used to create a Web Application  -> [[2]](https://github.com/deyran/pro-asp-net-mvc/blob/main/CHAPTER%207%20-%20SPORTSSTORE%20-%20A%20REAL%20APPLICATION/AA%20GETTING%20STARTED.md)
+2. Call the project *sharpcornerWeb*  
+
 ## ADD ENTITY DATA MODAL
 ## ADD A CONTROLLER
 ## CREATE A VIEW
@@ -28,4 +31,4 @@ minhaescola
     Requisitos Funcionais
         3. Login
             sharpcorner
-                CREATE DATABASE
+                CREATE A MVC PROJECT
