@@ -26,3 +26,4 @@ minhaescola
     Requisitos Funcionais
         3. Login
             sharpcorner
+                CREATE DATABASE
