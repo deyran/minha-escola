@@ -26,8 +26,9 @@
 ## PREPARING A DATABASE
 1. In the top menu, open the Server Explorer window (View > Server Explorer)
 2. In *Data Connections* right-click and choose *Add Connection*  
-3. Set the fields to match the pictures below  <br />
-    ![Add Connection](/REQUISITOS%20FUNCIONAIS/03%20-%20LOGIN/0301%20-%20sharpcorner/Pictures/sharpcornerPIC00.png)  
+3. Set the fields to match the picture below  <br />
+    ![Add Connection](/REQUISITOS%20FUNCIONAIS/03%20-%20LOGIN/0301%20-%20sharpcorner/Pictures/sharpcornerPIC00.png) 
+4. Click in Ok button
 
 ## ADD A CONTROLLER
 ## CREATE A VIEW
