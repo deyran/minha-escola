@@ -16,7 +16,9 @@
     Select 'jaipal', 'jai1234', 1 Union All  
     Select 'praveen', 'praveen1234', 1 Union All  
     Select 'pruthvi', 'pruthvi1234', 1 
-```
+```  
+3. Run de code  
+
 ## CREATE A MVC PROJECT
 ## ADD ENTITY DATA MODAL
 ## ADD A CONTROLLER
